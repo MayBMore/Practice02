@@ -16,13 +16,11 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	tb_prj02
 
-} {} {}} C:/LogicDesign/Practice02/Practice02/Practice02_4bit.v {1 {vlog -work work -stats=none C:/LogicDesign/Practice02/Practice02/Practice02_4bit.v
+} {} {}} C:/LogicDesign/Practice02/Practice02/tb_4bit.v {1 {vlog -work work -stats=none C:/LogicDesign/Practice02/Practice02/tb_4bit.v
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module fa4_inst
--- Compiling module fa4_mbit
+-- Compiling module tb2
 
 Top level modules:
-	fa4_inst
-	fa4_mbit
+	tb2
 
 } {} {}}
