@@ -1,0 +1,28 @@
+C:/LogicDesign/Practice02/Practice02/Practice02.v {1 {vlog -work work -stats=none C:/LogicDesign/Practice02/Practice02/Practice02.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fa_dataflow
+-- Compiling module fa_behavior
+-- Compiling module fa_case
+
+Top level modules:
+	fa_dataflow
+	fa_behavior
+	fa_case
+
+} {} {}} C:/LogicDesign/Practice02/Practice02/tb.v {1 {vlog -work work -stats=none C:/LogicDesign/Practice02/Practice02/tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_prj02
+
+Top level modules:
+	tb_prj02
+
+} {} {}} C:/LogicDesign/Practice02/Practice02/Practice02_4bit.v {1 {vlog -work work -stats=none C:/LogicDesign/Practice02/Practice02/Practice02_4bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module fa4_inst
+-- Compiling module fa4_mbit
+
+Top level modules:
+	fa4_inst
+	fa4_mbit
+
+} {} {}}
